@@ -7,7 +7,9 @@ using System.Configuration;
 
 namespace WebApplication1.App_Start
 {
-    //
+    /// <summary>
+    /// /
+    /// </summary>
     public class MongoDBContext
     {
         MongoClientBase client;
