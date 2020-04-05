@@ -224,6 +224,7 @@
     <Content Include="dist\assets\glyphicons-halflings-regular.ttf" />
     <Content Include="dist\assets\glyphicons-halflings-regular.woff" />
     <Content Include="dist\assets\glyphicons-halflings-regular.woff2" />
+    <Content Include=".babelrc" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="src\js\components\HelloWorld.jsx" />
     <Content Include="Scripts\jquery-3.4.1.js" />
