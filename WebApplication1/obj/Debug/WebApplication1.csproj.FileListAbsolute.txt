@@ -76,3 +76,4 @@ C:\Users\daren\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplica
 C:\Users\daren\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\daren\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\daren\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\daren\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache

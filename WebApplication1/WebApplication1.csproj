@@ -146,7 +146,7 @@
     <Content Include="package-lock.json" />
     <Content Include="src\index.js" />
     <Content Include="webpack.dev.js" />
-    <Content Include="webpack.production.js" />
+    <Content Include="webpack.prod.js" />
     <Content Include="webpack.common.js" />
     <Content Include="dist\assets\glyphicons-halflings-regular.eot" />
     <Content Include="dist\assets\glyphicons-halflings-regular.ttf" />
